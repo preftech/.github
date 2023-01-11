@@ -1,6 +1,6 @@
 # PrefTech Open Source contributions
 PrefTech is a Health Technology Company 
-Focused on improveming Hosipital Performance and Cost Savings
+Focused on improving Hosipital Performance and Cost Savings
 While also improving patient care through optimizing surgical procedures.
 
 ## Code of Conduct
